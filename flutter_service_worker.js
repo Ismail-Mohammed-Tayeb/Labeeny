@@ -44,9 +44,9 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "3db8faf3accb7b5a54cc5230091998b0",
-"/": "3db8faf3accb7b5a54cc5230091998b0",
-"main.dart.js": "414c5a7734970d2c884b356530198a56",
+"index.html": "e7b9a5904b3af080c7f8fc5c2973383d",
+"/": "e7b9a5904b3af080c7f8fc5c2973383d",
+"main.dart.js": "789237b152befb5a07b4aba231963c18",
 "manifest.json": "ee85d0827d188da221bde6e26bfd85e6",
 "version.json": "8802d5e631023df08df36319fca7a632"
 };
